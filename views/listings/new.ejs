@@ -1,0 +1,73 @@
+<% layout("/layout/boilerplate")-%>
+
+
+  
+   
+        <div class="row">
+            <div class="col-8 offset-2">
+                <h3>Add new Detail</h3>
+                <form action="/listings" method="post" novalidate class="needs-validation" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="listing[title]" class="form-label">TITLE</label>
+            <input type="text" class="form-control" name="listing[title]" placeholder="Enter Title" required>
+            <div class="valid-feedback">
+              Looks good!
+            </div>
+            
+          </div>
+        
+        <div class="mb-3">
+            <label for="listing[description]" class="form-label">Description</label>
+            <textarea class="form-control" name="listing[description]"  required rows="2"></textarea>
+            <div class="invalid-feedback">
+              Please enter a short description.
+             </div>
+          </div>
+         
+          <div class="row">
+            <div class="mb-3 col-4">
+              <label for="listing[price]" class="form-label">Price</label>
+              <input class="form-control" name="listing[price]"  required placeholder="Enter Price">
+              <div class="invalid-feedback">
+                Price should be valid.
+               </div>
+            </div>
+
+            <div class="mb-3 col-8">
+              <label for="listing[country]" class="form-label">Country</label>
+              <input type="text" class="form-control" name="listing[country]" placeholder="Enter country"  required>
+              <div class="invalid-feedback">
+                Country name should be valid.
+               </div>
+            </div>
+          </div>
+       
+        
+          <div class="mb-3">
+            <label for="listing[image]" class="form-label">Upload Image </label>
+            <input type="file" class="form-control" name="listing[image]" required>
+          </div>
+          <!-- <select class="form-select" aria-label="Default select example" name="listing[category]">
+            <option selected>Select Category</option>
+            <option>Mountains</option>
+            <option>Arctic</option>
+            <option>Deserts</option>
+            <option>Pools</option>
+            <option>Farms</option>
+          </select>
+          <br> -->
+ <div class="mb-3">
+    <label for="listing[location]" class="form-label">Location</label>
+    <input type="text" class="form-control" name="listing[location]" placeholder="Enter Location"  required>
+    <div class="invalid-feedback">
+      Location should be valid.
+    </div>
+  </div>
+
+
+ 
+        
+        <button class="btn btn-dark add-btn">Save</button>
+    </form></div>
+</div>
+
