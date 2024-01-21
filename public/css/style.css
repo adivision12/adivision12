@@ -129,7 +129,7 @@ body{
  }
  @media (max-width:600px) {
     .show-img{
-        width: 400px !important;
+        width: 100% !important;
     }
  }
 
@@ -142,6 +142,6 @@ body{
  }
  @media (max-width:600px) {
     #map{
-        width: 400px !important;
+        width: 100% !important;
     }
  }
