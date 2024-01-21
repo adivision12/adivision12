@@ -108,7 +108,7 @@ body{
 }
 #map { 
     height: 400px;
-    width: 120vh;
+    /* width: 120vh; */
  }
 
  
