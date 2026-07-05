@@ -1,5 +1,24 @@
-# 💫 About Me:
-💻 Full Stack Web Developer passionate about building modern and scalable web applications<br><br>⚛️ Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript, and Java<br><br>🚀 Solved 750+ DSA problems on LeetCode to strengthen problem-solving skills<br><br>🌱 Currently learning Next JS, System Design, and advanced React concepts<br><br>☁️ Oracle OCI AI Foundations Certified<br><br>🎯 Looking for opportunities as a Frontend / Full Stack Developer<br><br>📫 Feel free to connect with me for collaboration and exciting projects
+# 💫 Hi 👋, I'm Aditya Singh
+
+### 💻 Full Stack Web Developer | Frontend Developer | MERN Stack Enthusiast
+
+Passionate about building modern, scalable, and user-friendly web applications. I enjoy solving complex problems, learning new technologies, and turning ideas into real-world projects.
+
+📧 **Email:** adityasingh16072004@gmail.com
+
+- 🔭 **Currently working on:** Full Stack MERN Projects & improving my React ecosystem skills
+- 🌱 **Currently learning:** Next.js, TypeScript, System Design, and Advanced React
+- 👯 **Looking to collaborate on:** Open Source Projects, React.js & MERN Stack Applications
+- 💬 **Ask me about:** React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Java & DSA
+- 🎯 **Career Goal:** Frontend / Full Stack Software Engineer
+  
+- 🏆 **Achievements:**
+  - 🚀 Solved **750+ DSA problems** on LeetCode
+  - 🎓 B.Tech in Computer Science (CGPA: **8.85**)
+  - ☁️ Oracle OCI AI Foundations Certified
+- 📫 **Reach me at:** adityasingh16072004@gmail.com
+- ⚡ **Fun Fact:** I love building projects that solve real-world problems and continuously learning new technologies.
+
 
 
 ## 🌐 Socials:
